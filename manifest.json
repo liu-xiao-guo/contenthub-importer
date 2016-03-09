@@ -1,0 +1,15 @@
+{
+    "architecture": "all",
+    "description": "description of contenthub-importer",
+    "framework": "ubuntu-sdk-14.10",
+    "hooks": {
+        "contenthub-importer": {
+            "apparmor": "contenthub-importer.apparmor",
+            "desktop": "contenthub-importer.desktop"
+        }
+    },
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "name": "com.ubuntu.developer.liu-xiao-guo.contenthub-importer",
+    "title": "contenthub-importer",
+    "version": "0.1"
+}

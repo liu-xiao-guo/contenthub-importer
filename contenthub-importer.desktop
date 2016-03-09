@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=contenthub-importer
+Exec=qmlscene $@ main.qml
+Icon=contenthub-importer.jpg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
